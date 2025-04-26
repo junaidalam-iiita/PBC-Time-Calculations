@@ -1,0 +1,49 @@
+System Configuration : Intel Xeon E-2226G CPU running at 3.40GHz with 6 cores and 16GB of RAM
+CLOCKS_PER_SEC = 1000000
+
+n = 1000000
+
+TIME REPORT IN G1 .............
+
+Cost of Addition in G1 = 0.00450091 ms
+
+Cost of Subtraction in G1 = 0.00435111 ms
+
+Cost of scalar-Multiplication in G1 = 0.789159 ms
+
+Cost of Point Negation in G1 = 0.000627463 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Addition in G2 = 0.00431862 ms
+
+Cost of Subtraction in G2 = 0.00430123 ms
+
+Cost of scalar-Multiplication in G2 = 0.787323 ms
+
+Cost of Point Negation in G2 = 0.000640789 ms
+
+TIME REPORT IN GT .............
+
+Cost of Multiplication in GT = 0.00109489 ms
+
+Cost of Inverse in GT = 0.00446072 ms
+
+Cost of Exponentiation in GT = 0.067142 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Addition in Zr = 0.00064707 ms
+
+Cost of Subtraction in Zr = 0.000631916 ms
+
+Cost of Multiplication in Zr = 0.000673458 ms
+
+Cost of Division in Zr = 0.00192494 ms
+
+Cost of Multiplicative-Inverse in Zr = 0.00146643 ms
+
+Cost of Exponentiation in Zr = 0.00471171 ms
+
+BILINEAR PAIRING.....
+Pairing Cost = 0.493073 ms

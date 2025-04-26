@@ -1,0 +1,49 @@
+System Configuration : Intel Xeon 3204 CPU running at 1.90GHz with 6 cores and 32GB of RAM
+CLOCKS_PER_SEC = 1000000
+
+n = 1000000
+
+TIME REPORT IN G1 .............
+
+Cost of Addition in G1 = 0.00979003 ms
+
+Cost of Subtraction in G1 = 0.00950042 ms
+
+Cost of scalar-Multiplication in G1 = 1.90084 ms
+
+Cost of Point Negation in G1 = 0.000578433 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Addition in G2 = 0.00939274 ms
+
+Cost of Subtraction in G2 = 0.00939665 ms
+
+Cost of scalar-Multiplication in G2 = 1.89943 ms
+
+Cost of Point Negation in G2 = 0.000564627 ms
+
+TIME REPORT IN GT .............
+
+Cost of Multiplication in GT = 0.00167748 ms
+
+Cost of Inverse in GT = 0.00979954 ms
+
+Cost of Exponentiation in GT = 0.155696 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Addition in Zr = 0.000571314 ms
+
+Cost of Subtraction in Zr = 0.00053803 ms
+
+Cost of Multiplication in Zr = 0.000637494 ms
+
+Cost of Division in Zr = 0.00355214 ms
+
+Cost of Multiplicative-Inverse in Zr = 0.00247672 ms
+
+Cost of Exponentiation in Zr = 0.00966771 ms
+
+BILINEAR PAIRING.....
+Pairing Cost = 1.16477 ms

@@ -1,0 +1,49 @@
+8GB Raspberry Pi
+CLOCKS_PER_SEC = 1000000
+
+n = 1000000
+
+TIME REPORT IN G1 .............
+
+Cost of Addition in G1 = 0.0298383 ms
+
+Cost of Subtraction in G1 = 0.0175746 ms
+
+Cost of scalar-Multiplication in G1 = 2.60661 ms
+
+Cost of Point Negation in G1 = 0.00554022 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Addition in G2 = 0.021937 ms
+
+Cost of Subtraction in G2 = 0.0171088 ms
+
+Cost of scalar-Multiplication in G2 = 2.58018 ms
+
+Cost of Point Negation in G2 = 0.00516197 ms
+
+TIME REPORT IN GT .............
+
+Cost of Multiplication in GT = 0.011794 ms
+
+Cost of Inverse in GT = 0.0222631 ms
+
+Cost of Exponentiation in GT = 0.384011 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Addition in Zr = 0.00489624 ms
+
+Cost of Subtraction in Zr = 0.0037562 ms
+
+Cost of Multiplication in Zr = 0.0040059 ms
+
+Cost of Division in Zr = 0.0170222 ms
+
+Cost of Multiplicative-Inverse in Zr = 0.00711642 ms
+
+Cost of Exponentiation in Zr = 0.0562745 ms
+
+BILINEAR PAIRING.....
+Pairing Cost = 3.08885 ms
