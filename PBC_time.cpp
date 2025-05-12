@@ -28,8 +28,8 @@ int main(int argc, char **argv) {
 	pairing_t params;
 	pbc_demo_pairing_init(params, argc, argv);
 	size_t n; 
-	if(debug) n = 1;
-	else n = 1000; // accuracy vs. cost
+	if(debug) n = 1000000;
+	else n = 1000000; // accuracy vs. cost
 	
 	
 	clock_t startTime1, endTime1;
@@ -84,7 +84,6 @@ int main(int argc, char **argv) {
 		element_random(X2);
 		
 		/////////////////                      Calculations in G1        /////////////////////////////////////////
-		
 		
     		startTime1 = clock();
     		
@@ -304,6 +303,7 @@ int main(int argc, char **argv) {
     	cout << endl << "CLOCKS_PER_SEC = " << CLOCKS_PER_SEC << endl;
     	
 	if(mode){
+	        
 		cout << "TIME REPORT IN G1 ............." << endl;
 		cout << endl << "Cost of Addition in G1 = " << avgTimeTaken1 << " ms" << endl;
 		cout << endl << "Cost of Subtraction in G1 = " << avgTimeTaken2 << " ms" << endl;

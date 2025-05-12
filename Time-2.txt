@@ -1,8 +1,6 @@
 System Configuration : Intel Xeon E-2226G CPU running at 3.40GHz with 6 cores and 16GB of RAM
 CLOCKS_PER_SEC = 1000000
 
-n = 1000000
-
 TIME REPORT IN G1 .............
 
 Cost of Addition in G1 = 0.00450091 ms

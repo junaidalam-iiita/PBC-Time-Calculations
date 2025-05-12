@@ -1,0 +1,47 @@
+System Configuration : Intel(R) Core(TM) i7-10700T CPU @ 2.00GHz with 2 cores and 8GB of RAM
+CLOCKS_PER_SEC = 1000000
+
+TIME REPORT IN G1 .............
+
+Cost of Addition in G1 = 0.00450391 ms
+
+Cost of Subtraction in G1 = 0.00431553 ms
+
+Cost of scalar-Multiplication in G1 = 0.86367 ms
+
+Cost of Point Negation in G1 = 0.000275268 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Addition in G2 = 0.00430799 ms
+
+Cost of Subtraction in G2 = 0.00424497 ms
+
+Cost of scalar-Multiplication in G2 = 0.861358 ms
+
+Cost of Point Negation in G2 = 0.000270411 ms
+
+TIME REPORT IN GT .............
+
+Cost of Multiplication in GT = 0.0009214 ms
+
+Cost of Inverse in GT = 0.00445065 ms
+
+Cost of Exponentiation in GT = 0.0825273 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Addition in Zr = 0.000263473 ms
+
+Cost of Subtraction in Zr = 0.000255767 ms
+
+Cost of Multiplication in Zr = 0.000339234 ms
+
+Cost of Division in Zr = 0.00160853 ms
+
+Cost of Multiplicative-Inverse in Zr = 0.0011967 ms
+
+Cost of Exponentiation in Zr = 0.00484278 ms
+
+BILINEAR PAIRING.....
+Pairing Cost = 0.650697 ms
