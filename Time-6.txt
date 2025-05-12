@@ -1,0 +1,47 @@
+System Configuration : 11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz with 2 cores and 16GB of RAM
+CLOCKS_PER_SEC = 1000000
+
+TIME REPORT IN G1 .............
+
+Cost of Addition in G1 = 0.00389293 ms
+
+Cost of Subtraction in G1 = 0.00383426 ms
+
+Cost of scalar-Multiplication in G1 = 0.755001 ms
+
+Cost of Point Negation in G1 = 0.000220628 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Addition in G2 = 0.00380915 ms
+
+Cost of Subtraction in G2 = 0.00380804 ms
+
+Cost of scalar-Multiplication in G2 = 0.75606 ms
+
+Cost of Point Negation in G2 = 0.000228531 ms
+
+TIME REPORT IN GT .............
+
+Cost of Multiplication in GT = 0.000697398 ms
+
+Cost of Inverse in GT = 0.00391262 ms
+
+Cost of Exponentiation in GT = 0.0648402 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Addition in Zr = 0.000229893 ms
+
+Cost of Subtraction in Zr = 0.00022129 ms
+
+Cost of Multiplication in Zr = 0.000266256 ms
+
+Cost of Division in Zr = 0.00142684 ms
+
+Cost of Multiplicative-Inverse in Zr = 0.00111428 ms
+
+Cost of Exponentiation in Zr = 0.00404021 ms
+
+BILINEAR PAIRING.....
+Pairing Cost = 0.497361 ms
