@@ -1,0 +1,48 @@
+System Configuration : Intel® Core™ i5-8265U CPU running at 1.60GHz with 8 cores and 8GB of RAM
+
+
+CLOCKS_PER_SEC = 1000000
+TIME REPORT IN G1 .............
+
+Cost of Addition in G1 = 0.012388 ms
+
+Cost of Subtraction in G1 = 0.011886 ms
+
+Cost of scalar-Multiplication in G1 = 2.39239 ms
+
+Cost of Point Negation in G1 = 0.000665 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Addition in G2 = 0.011846 ms
+
+Cost of Subtraction in G2 = 0.011745 ms
+
+Cost of scalar-Multiplication in G2 = 2.38681 ms
+
+Cost of Point Negation in G2 = 0.000596 ms
+
+TIME REPORT IN GT .............
+
+Cost of Multiplication in GT = 0.002147 ms
+
+Cost of Inverse in GT = 0.012078 ms
+
+Cost of Exponentiation in GT = 0.211718 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Addition in Zr = 0.000655 ms
+
+Cost of Subtraction in Zr = 0.000601 ms
+
+Cost of Multiplication in Zr = 0.000731 ms
+
+Cost of Division in Zr = 0.004446 ms
+
+Cost of Multiplicative-Inverse in Zr = 0.003092 ms
+
+Cost of Exponentiation in Zr = 0.013724 ms
+
+BILINEAR PAIRING.....
+Pairing Cost = 1.51713 ms

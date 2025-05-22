@@ -1,0 +1,17 @@
+
+CLOCKS_PER_SEC = 1000000
+TIME REPORT IN G1 .............
+
+Cost of Hash from G1 = 5.054 ms
+
+TIME REPORT IN G2 .............
+
+Cost of Hash from G2 = 5.05453 ms
+
+TIME REPORT IN GT .............
+
+Cost of Hash from GT = 0.231167 ms
+
+TIME REPORT IN Zr .............
+
+Cost of Hash from Zr = 0.0014973 ms
